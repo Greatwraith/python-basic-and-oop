@@ -1,0 +1,14 @@
+So let's say you are making a calculator. 
+So how many functions uh do we need to have in the calculator?
+A lot right, a bunch of various type of funtions.
+There will be a function of addition, substraction, multiplication, etc. 
+So these functions are all relevant functions. 
+
+ 
+we build a small house for them, like for those functions where all of them are placed. 
+And that house is uh the blocks.
+So in other words, we call them classes, so it allows us to organize our, our building process. 
+
+So if we're building the calculator, 
+we need to have so many different functions and to store them and to organize them, 
+we need to use what we call classes. 

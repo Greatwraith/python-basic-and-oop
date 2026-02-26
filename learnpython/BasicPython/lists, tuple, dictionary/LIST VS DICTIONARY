@@ -1,0 +1,15 @@
+when to use list and dictionary?
+
+
+# list
+
+you can store any data types in list
+
+# dictionary
+
+we can store any data type for the VALUES.
+the values associated with keys can be any type
+
+but the KEYS are restricted to specific types
+you can use any immutable data type, numbers, Booleans, strings, and tuples as dictionary keys
+including lists or even other dictionaries. You can use them to represent more complex data structures

@@ -1,0 +1,9 @@
+In this lesson,
+ we will learn about class methods and constructors in a simple way. 
+A constructor is a special function that runs when we create an object from a class.
+ It helps set up the object with the values it needs.
+
+Think of a class as a blueprint. 
+The constructor creates the object using that blueprint, 
+and class methods are functions that belong to the class and help manage or work with its data. 
+By the end of this lesson, these ideas will feel clear and easy to understand.

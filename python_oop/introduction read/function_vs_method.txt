@@ -1,0 +1,40 @@
+If a function is inside a class → it’s called a method
+If it’s outside a class → it’s just a function
+
+
+1. FUCNTION
+
+A function is a block of code that exists on its own.
+It is not tied to any class or object.
+- It is defined outside a class
+- It does not belong to any object
+
+👉 You can call it directly by its name.
+
+Example:
+
+def say_hello():
+    print("Hello!")
+
+say_hello()
+
+
+
+2. METHOD 
+
+A method is a function that belongs to a class.
+-It is defined inside a class
+- It is called using an object
+- It usually has self as the first parameter
+
+👉 You must call it using an object of that class.
+
+
+example:
+
+class Person:
+    def say_hello(self):
+        print("Hello!")
+
+p = Person()
+p.say_hello()

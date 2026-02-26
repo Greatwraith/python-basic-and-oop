@@ -1,0 +1,66 @@
+
+
+1. CLASS
+
+Class merupakan kerangka yang digunakan untuk menampung property dan method, 
+atau dapat disebut juga sebagai blueprint dari sebuah objek.
+
+Untuk membuat class di Python bisa digunakan dengan
+menambahkan keyword class lalu di ikuti oleh nama class yang akan dibuat
+
+
+class Manusia:
+    ...
+    ....
+    .....
+
+
+
+2. OBJECT
+
+Object dalam OOP adalah sesuatu yang spesifik, nyata, dan memiliki nilai atau data tersendiri berdasarkan cetakan dari class.
+Objek bisa melakukan sesuatu (melalui method) dan menyimpan sesuatu (melalui atribut).
+object bisa disebut juga nama spesifik nya, atau hal spesifik yang menjadi ciri khas suatu Class.
+
+misalkan Manusia Object nya Ardhan.
+"Ardhan" merupakan namanya AKA hal spesifik yang menjadi ciri khas class Manusia
+
+<!-- Nama = Object = hal spesifik yang menjadi ciri khas class Manusia -->
+
+class Manusia:
+     def __init__(self):
+         self.nama = "Ardhan"
+
+
+
+3. ATTRIBUTES
+
+
+Atribut adalah data yang dimiliki oleh sebuah objek, data yang dimaksud adalah informasi atau karakteristik dari sebuah objek.
+Ibarat motor, ini spesifikasi nya.
+
+<!-- Apa aja spesifikasi objek nya?  -->
+
+class Manusia:
+     def __init__(self):
+         self.nama = "Ardhan"
+         <!-- ↓ ADALAH ATTRIBUTES NYA -->
+         self.umur = "17"
+         self.asal = "Banjarmasin"
+         self.rambut = "ikal bergelombang"
+         self.etnis = "Banjar-chinese-arab"
+
+
+
+4. METHOD
+
+Method adalah fungsi yang dimiliki oleh object untuk menjalankan aksi tertentu.
+Method pada dasarnya adalah function yang berada di dalam class.
+
+kalau manusia bisa melakukan apa saja selayaknya mahkluk hidup?
+makan, minum, tidur, belajar, berjalan...
+
+<!-- objek nya bisa ngapain aja? -->
+
+
+

@@ -1,0 +1,8 @@
+A Satic method is a function inside a class that 
+ doesn’t need an object and *doesn’t need the class itself.
+ It has no `self` and no `cls`, and it doesn’t use object or class data.
+
+It is just a regular function placed inside a class
+ because it belongs there logically. 
+ It cannot access instance or class variables unless they are passed in, 
+ and it can be called using the class or an object.

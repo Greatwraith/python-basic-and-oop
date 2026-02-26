@@ -1,0 +1,16 @@
+Dictionary: 
+Tipe data yang digunakan untuk mengatur elemen ke dalam sebuah kumpulan, 
+dalam bentuk pasangan kunci (key) dan nilai (value).
+
+
+List comprehension: 
+Cara untuk membuat list baru berdasarkan urutan (sequence) atau rentang (range) tertentu.
+
+
+String: 
+Tipe data yang digunakan untuk merepresentasikan teks. 
+String merupakan urutan karakter dan bersifat immutable (tidak dapat diubah).
+
+
+Tuple: Urutan elemen dengan tipe apa pun yang bersifat immutable, 
+dan ditulis menggunakan tanda kurung biasa ( ) bukan kurung siku [ ].
