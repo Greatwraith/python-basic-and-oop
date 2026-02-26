@@ -61,5 +61,5 @@ Content is written in a mix of **English and Indonesian**.
 
 ---
 
-> 📝 *README.md is written by Claude AI*  
+> 📝 *README.md is written by Claude AI **with an engineered prompt** *  
 > 👌 *Thanks to Claude AI for helping me*
